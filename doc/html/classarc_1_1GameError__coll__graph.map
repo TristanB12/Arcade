@@ -1,0 +1,5 @@
+<map id="arc::GameError" name="arc::GameError">
+<area shape="rect" id="node1" title="Errors related to game libraries." alt="" coords="5,271,125,348"/>
+<area shape="rect" id="node2" href="$classarc_1_1Error.html" title="Standard arcade error." alt="" coords="25,131,106,223"/>
+<area shape="rect" id="node3" title=" " alt="" coords="8,5,123,83"/>
+</map>

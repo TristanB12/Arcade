@@ -1,0 +1,12 @@
+<map id="arc::DisplayError" name="arc::DisplayError">
+<area shape="rect" id="node1" title="Errors related to display libraries." alt="" coords="322,271,453,348"/>
+<area shape="rect" id="node4" href="$classarc_1_1Allegro5Error.html" title="Errors related to Allegro5 display library." alt="" coords="5,403,140,481"/>
+<area shape="rect" id="node5" href="$classarc_1_1LibCacaError.html" title=" " alt="" coords="164,403,296,481"/>
+<area shape="rect" id="node6" href="$classarc_1_1NcursesError.html" title="Errors related to Ncurses display library." alt="" coords="321,403,454,481"/>
+<area shape="rect" id="node7" href="$classarc_1_1SDLError.html" title="Errors related to SDL2 display library." alt="" coords="478,396,585,488"/>
+<area shape="rect" id="node10" href="$classarc_1_1SFMLError.html" title="Errors related to SFML display library." alt="" coords="609,403,725,481"/>
+<area shape="rect" id="node2" href="$classarc_1_1Error.html" title="Standard arcade error." alt="" coords="347,131,428,223"/>
+<area shape="rect" id="node3" title=" " alt="" coords="330,5,445,83"/>
+<area shape="rect" id="node8" href="$classarc_1_1IMGError.html" title="Errors related to SDL2 Image module." alt="" coords="413,536,519,628"/>
+<area shape="rect" id="node9" href="$classarc_1_1TTFError.html" title="Errors related to SDL2 TTF module." alt="" coords="544,536,649,628"/>
+</map>

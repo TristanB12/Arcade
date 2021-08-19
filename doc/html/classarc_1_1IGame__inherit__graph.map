@@ -1,0 +1,5 @@
+<map id="arc::IGame" name="arc::IGame">
+<area shape="rect" id="node1" title="Interface for a game library." alt="" coords="71,5,177,200"/>
+<area shape="rect" id="node2" href="$classarc_1_1Nibbler.html" title=" " alt="" coords="5,248,112,472"/>
+<area shape="rect" id="node3" href="$classarc_1_1Pacman.html" title=" " alt="" coords="136,248,245,472"/>
+</map>

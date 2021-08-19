@@ -1,0 +1,7 @@
+<map id="arc::DLError" name="arc::DLError">
+<area shape="rect" id="node1" title="Errors related to dynamic libraries." alt="" coords="114,271,213,348"/>
+<area shape="rect" id="node4" href="$classarc_1_1DLLoaderError.html" title="Errors related to loading dynamic libraries." alt="" coords="5,396,148,488"/>
+<area shape="rect" id="node5" href="$classarc_1_1DLManagerError.html" title="Errors related to managing dynamic libraries." alt="" coords="173,403,327,481"/>
+<area shape="rect" id="node2" href="$classarc_1_1Error.html" title="Standard arcade error." alt="" coords="123,131,204,223"/>
+<area shape="rect" id="node3" title=" " alt="" coords="106,5,221,83"/>
+</map>

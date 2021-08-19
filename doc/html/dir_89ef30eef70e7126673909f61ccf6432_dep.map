@@ -1,0 +1,15 @@
+<map id="lib/Display" name="lib/Display">
+<area shape="rect" id="node2" href="dir_8af5d6434000ffafcf4713919c0c21bf.html" title="Allegro5" alt="" coords="426,63,502,111"/>
+<area shape="rect" id="node7" href="dir_e28231055b5b43926a736e18480856e7.html" title="inc" alt="" coords="231,159,303,207"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000006_000015.html" title="2" alt="" coords="318,170,327,185"/>
+<area shape="rect" id="node3" href="dir_27a66f59492236e3cedb23d226385f8d.html" title="LibCaca" alt="" coords="329,63,402,111"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000007_000015.html" title="3" alt="" coords="305,145,314,160"/>
+<area shape="rect" id="node4" href="dir_841ddc1d8adb93339e765fba62c4c538.html" title="Ncurses" alt="" coords="229,63,304,111"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000008_000015.html" title="3" alt="" coords="270,133,280,148"/>
+<area shape="rect" id="node5" href="dir_15a4b54caa90bbc7e1668f6b65b55f36.html" title="SDL2" alt="" coords="133,63,205,111"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000009_000015.html" title="3" alt="" coords="231,133,240,147"/>
+<area shape="rect" id="node6" href="dir_f89683c0e787857d828792cf49b13f86.html" title="SFML" alt="" coords="37,63,109,111"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000010_000015.html" title="2" alt="" coords="210,153,220,168"/>
+<area shape="rect" id="clust2" href="dir_89ef30eef70e7126673909f61ccf6432.html" alt="" coords="27,52,609,121"/>
+<area shape="rect" id="clust1" href="dir_97aefd0d527b934f1d99a682da8fe6a9.html" title="lib" alt="" coords="16,16,620,132"/>
+</map>

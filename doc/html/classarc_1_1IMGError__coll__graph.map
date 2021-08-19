@@ -1,0 +1,7 @@
+<map id="arc::IMGError" name="arc::IMGError">
+<area shape="rect" id="node1" title="Errors related to SDL2 Image module." alt="" coords="17,536,124,628"/>
+<area shape="rect" id="node2" href="$classarc_1_1SDLError.html" title="Errors related to SDL2 display library." alt="" coords="17,396,124,488"/>
+<area shape="rect" id="node3" href="$classarc_1_1DisplayError.html" title="Errors related to display libraries." alt="" coords="5,271,136,348"/>
+<area shape="rect" id="node4" href="$classarc_1_1Error.html" title="Standard arcade error." alt="" coords="30,131,111,223"/>
+<area shape="rect" id="node5" title=" " alt="" coords="13,5,128,83"/>
+</map>

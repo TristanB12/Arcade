@@ -1,0 +1,17 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classarc_1_1DLManagerError.html" title="Errors related to managing dynamic libraries." alt="" coords="5,208,160,235"/>
+<area shape="rect" id="node2" href="$classarc_1_1Error.html" title="Standard arcade error." alt="" coords="208,171,289,197"/>
+<area shape="rect" id="node3" href="$classarc_1_1CoreError.html" title="Errors related to arcade Core." alt="" coords="347,56,458,83"/>
+<area shape="rect" id="node4" href="$classarc_1_1DisplayError.html" title="Errors related to display libraries." alt="" coords="337,107,468,133"/>
+<area shape="rect" id="node12" href="$classarc_1_1DLError.html" title="Errors related to dynamic libraries." alt="" coords="353,259,452,285"/>
+<area shape="rect" id="node14" href="$classarc_1_1GameError.html" title="Errors related to game libraries." alt="" coords="343,157,463,184"/>
+<area shape="rect" id="node15" href="$classarc_1_1ParseError.html" title="Errors related to parsing." alt="" coords="345,208,461,235"/>
+<area shape="rect" id="node5" href="$classarc_1_1Allegro5Error.html" title="Errors related to Allegro5 display library." alt="" coords="520,5,655,32"/>
+<area shape="rect" id="node6" href="$classarc_1_1LibCacaError.html" title=" " alt="" coords="521,56,653,83"/>
+<area shape="rect" id="node7" href="$classarc_1_1NcursesError.html" title="Errors related to Ncurses display library." alt="" coords="521,107,654,133"/>
+<area shape="rect" id="node8" href="$classarc_1_1SDLError.html" title="Errors related to SDL2 display library." alt="" coords="534,157,641,184"/>
+<area shape="rect" id="node11" href="$classarc_1_1SFMLError.html" title="Errors related to SFML display library." alt="" coords="529,208,645,235"/>
+<area shape="rect" id="node9" href="$classarc_1_1IMGError.html" title="Errors related to SDL2 Image module." alt="" coords="707,132,813,159"/>
+<area shape="rect" id="node10" href="$classarc_1_1TTFError.html" title="Errors related to SDL2 TTF module." alt="" coords="707,183,813,209"/>
+<area shape="rect" id="node13" href="$classarc_1_1DLLoaderError.html" title="Errors related to loading dynamic libraries." alt="" coords="516,259,659,285"/>
+</map>

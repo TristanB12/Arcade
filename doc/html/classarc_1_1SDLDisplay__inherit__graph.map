@@ -1,0 +1,4 @@
+<map id="arc::SDLDisplay" name="arc::SDLDisplay">
+<area shape="rect" id="node1" title="SDL2 Display library." alt="" coords="5,292,153,545"/>
+<area shape="rect" id="node2" href="$classarc_1_1IDisplay.html" title="Interface for a display library." alt="" coords="5,5,153,244"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="arc::IDisplay" name="arc::IDisplay">
+<area shape="rect" id="node1" title="Interface for a display library." alt="" coords="379,5,527,244"/>
+<area shape="rect" id="node2" href="$classarc_1_1Allegro5Display.html" title="Allegro5 Display library." alt="" coords="5,292,167,545"/>
+<area shape="rect" id="node3" href="$classarc_1_1LibCacaDisplay.html" title="LibCaca Display library." alt="" coords="191,292,349,545"/>
+<area shape="rect" id="node4" href="$classarc_1_1NcursesDisplay.html" title="Ncurses Display library." alt="" coords="373,292,532,545"/>
+<area shape="rect" id="node5" href="$classarc_1_1SDLDisplay.html" title="SDL2 Display library." alt="" coords="556,292,704,545"/>
+<area shape="rect" id="node6" href="$classarc_1_1SFMLDisplay.html" title="SFML Display library." alt="" coords="728,292,876,545"/>
+</map>
